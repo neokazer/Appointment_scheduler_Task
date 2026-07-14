@@ -47,11 +47,12 @@ Appointment_scheduler_Task/
 ## Screenshots
 
 **Calendar View**
+![Calendar View](./screenshots/calendar-view.png)
 
 Shows all appointments laid out in a monthly calendar with navigation controls.
 
 **Schedule Appointment**
-
+   ![Schedule Appointment](./screenshots/schedule-popup.png)
 Clicking "Book Appointment" opens a modal to add a new appointment with all required details.
 
 ## Author
@@ -61,5 +62,5 @@ Clicking "Book Appointment" opens a modal to add a new appointment with all requ
 
 https://github.com/user-attachments/assets/dae3a06b-257e-4d02-a0b0-bbd3690b87cb
 
-![Calendar View](./screenshots/calendar-view.png)
-   ![Schedule Appointment](./screenshots/schedule-popup.png)
+
+
